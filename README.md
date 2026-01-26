@@ -1,32 +1,78 @@
+# 👋 Hi, I'm Biruk Kasahun
 
-# 🏄‍♂️ Biruk Kassahun
+**Backend Engineer | Django & REST APIs | AWS Solutions Architect (SAA) | Serverless | ALX Backend Graduate**
 
-**`Developer, Software Engineer`**
+I’m a **backend-focused software engineer** who builds **scalable, secure, and production-ready systems**.  
+My strength lies in **Django, RESTful APIs, cloud-native architectures, and database-driven applications**, with hands-on experience deploying and scaling services on **AWS**.
 
-I’m a passionate Full Stack Software Engineer with experience in building responsive, scalable, and user-friendly web applications. I enjoy working across the entire tech stack—from designing intuitive front-end interfaces to building robust back-end systems and working with databases and cloud infrastructure
+I care deeply about **clean architecture, performance, security, and real-world impact**—not just making things work, but making them last.
 
 ---
 
-### 🧰 Languages and Tools
+## 🧠 Core Expertise
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+- **Backend:** Django, Django REST Framework, Authentication & Authorization
+- **Databases:** PostgreSQL, relational data modeling
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Serverless, CI/CD (GitHub Actions)
+- **Frontend (Working Knowledge):** React, Angular, JavaScript, HTML, CSS
+- **Engineering Practices:** REST design, OOP, secure APIs, scalable system design
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+---
 
-### 📊 Stats
+## 🧰 Tech Stack
 
-![Biruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=brook1717&show_icons=true&theme=gruvbox)
-[likedin]: linkedin.com/in/biruk-kassahun-684b682a6
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+</p>
 
+---
+
+## 🚀 Featured Projects (Real-World Focus)
+
+### 🔹 Backend & API Systems
+- **Library Management System** – role-based access, secure endpoints, optimized queries  
+- **Vaccination Management Platform** – campaigns, media handling, admin dashboards  
+- **Social Media REST API** – users, posts, comments, likes, follows  
+
+### 🔹 Full-Stack Applications
+- **Blog Platform** – Django backend + modern frontend  
+- **Interactive Dashboards** – API-driven data visualization  
+
+### 🔹 JavaScript Projects
+- Games, utilities, and productivity tools (To-Do App, Music Player, Spreadsheet App)
+
+> Each project emphasizes **clean architecture, validation, security, and scalability**.
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brook1717&show_icons=true&theme=gruvbox)
+
+---
+
+## 🌟 What Makes Me Valuable
+
+- Strong **backend-first mindset**
+- Experience building **real systems**, not just tutorials
+- Comfortable with **cloud deployment & serverless**
+- Clean, readable, and maintainable code
+- Fast learner with strong **problem-solving skills**
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/biruk-kasahun-684b682a6
+- 💻 GitHub: https://github.com/brook1717  
+
+---
+
+> *“Good software is built to work today. Great software is built to scale tomorrow.”*
