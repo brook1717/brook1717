@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Biruk Kasahun
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Cloud+%26+Infrastructure;AWS+Certified+Solutions+Architect;Django+%7C+AWS+%7C+Terraform+%7C+PostgreSQL;Building+Scalable+%26+Production-Ready+Systems;Secure+APIs+%7C+Serverless+Architecture+%7C+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Cloud+%26+Infrastructure;AWS+Solutions+Architect;Django+%7C+AWS+%7C+Terraform+%7C+PostgreSQL;Building+Scalable+%26+Production-Ready+Systems;Secure+APIs+%7C+Serverless+Architecture+%7C+DevOps" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 # 💫 About Me
 
-I'm an **AWS Certified Solutions Architect** and **backend-focused software engineer (BSc)** specializing in:
+I'm an **AWS Solutions Architect** and **backend-focused software engineer (BSc)** specializing in:
 
 - ⚙️ **Backend Engineering**
 - ☁️ **AWS Cloud Architecture**
@@ -35,11 +35,11 @@ I'm an **AWS Certified Solutions Architect** and **backend-focused software engi
 
 I build systems that are designed to be:
 
-✅ Scalable  
-✅ Secure  
-✅ Maintainable  
-✅ Cloud-Native  
-✅ Production-Ready
+λ Scalable
+🔐 Secure
+⚙️ Maintainable
+☁️ Cloud-Native
+💎 Production-Ready
 
 My primary stack revolves around **Python, Django, PostgreSQL, AWS, Terraform, and Docker**, with a strong focus on backend architecture and infrastructure automation.
 
@@ -130,6 +130,25 @@ My primary stack revolves around **Python, Django, PostgreSQL, AWS, Terraform, a
 ### 🔹 Tech Stack
 `AWS` `Lambda` `DynamoDB` `Terraform` `Node.js`
 
+### 🔗 Links
+- 💻 [Source Code](https://github.com/brook1717/mediflow-serverless-api)
+
+---
+
+## 💉 Vaccination Campaign Management System
+> Centralized management platform for multi-center coordination and real-time inventory tracking.
+
+### 🔹 Features
+- Relational database architecture managing doses across geographic locations.
+- Custom scheduling system preventing over-booking and balancing load.
+- Secure media handling for user health profile uploads.
+
+### 🔹 Tech Stack
+`Django` `PostgreSQL` `Python` `Relational Design`
+
+### 🔗 Links
+- 💻 [Source Code](https://github.com/brook1717/Vaccination-System)
+
 ---
 
 ## ☁️ AWS Highly Available Web Architecture
@@ -145,6 +164,9 @@ My primary stack revolves around **Python, Django, PostgreSQL, AWS, Terraform, a
 ### 🔹 Tech Stack
 `AWS` `Terraform` `GitHub Actions`
 
+### 🔗 Links
+- 💻 [Source Code](https://github.com/brook1717/ha-scalable-webapp-aws)
+
 ---
 
 ## 🏋️ Gym Membership & Payment Management System
@@ -158,6 +180,9 @@ My primary stack revolves around **Python, Django, PostgreSQL, AWS, Terraform, a
 
 ### 🔹 Tech Stack
 `Django REST Framework` `PostgreSQL` `Docker` `JWT`
+
+### 🔗 Links
+- 💻 [Source Code](https://github.com/brook1717/Gym_management)
 
 ---
 
