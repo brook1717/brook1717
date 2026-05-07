@@ -35,11 +35,11 @@ I'm an **AWS Solutions Architect** and **backend-focused software engineer (BSc)
 
 I build systems that are designed to be:
 
-λ Scalable
-🔐 Secure
-⚙️ Maintainable
-☁️ Cloud-Native
-💎 Production-Ready
+- λ **Scalable**
+- 🔐 **Secure**
+- ⚙️ **Maintainable**
+- ☁️ **Cloud-Native**
+- 💎 **Production-Ready**
 
 My primary stack revolves around **Python, Django, PostgreSQL, AWS, Terraform, and Docker**, with a strong focus on backend architecture and infrastructure automation.
 
@@ -209,7 +209,7 @@ Database Engineering       █████████████████�
 Security Engineering       ████████████████░░░ 85%
 DevOps Automation          ████████████████░░░ 85%
 Frontend                   ████████████░░░░░░░ 60%
-
+```
 ---
 
 <div align="center">
